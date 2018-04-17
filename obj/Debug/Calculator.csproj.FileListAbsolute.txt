@@ -1,0 +1,7 @@
+c:\users\anastasiya\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\anastasiya\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\anastasiya\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\anastasiya\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\anastasiya\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\anastasiya\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\anastasiya\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
